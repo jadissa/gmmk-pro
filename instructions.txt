@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=fuBJbdCFF0Q&ab_channel=MechMerlin
+- compiling
+
+https://config.qmk.fm/#/gmmk/pro/rev1/ansi/LAYOUT
+- LOAD DEFAULT
+
+https://www.youtube.com/watch?v=8vsBcb35ZUA&ab_channel=Leizerg
+- lighting
